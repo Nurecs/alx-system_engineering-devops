@@ -1,3 +1,2 @@
 #!/bin/bash
-user="Nurudeen Adullahi"
-echo "hello $user"
+echo "hello $USER"
